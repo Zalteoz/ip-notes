@@ -19,8 +19,6 @@ title: IP Notes - ETH FS 2026
 This lecture is simply an introduction to the matter, you can find the notes about it in [[Introduction to Intellectual Property]]
 
 
-
-
 ***
 
 
