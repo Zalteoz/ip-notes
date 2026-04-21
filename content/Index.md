@@ -1,5 +1,5 @@
 ---
-Subject: "[[Index]]"
+Subject: "[[index]]"
 tags:
   - semester6
   - iprights
@@ -12,20 +12,15 @@ title: IP Notes - ETH FS 2026
 
 ***
 
-
 ## Lecture 1
-
 
 This lecture is simply an introduction to the matter, you can find the notes about it in [[Introduction to Intellectual Property]]
 
-
 ***
-
 
 ## Lecture 2
 
 Overslept this one i'm a fucking retard. But I think we handled [[Intro Policy Rationale]] and [[Intro Specific IP Rights]]
-
 
 ***
 
@@ -63,4 +58,3 @@ Today we looked further at [[Copyrights and Trademarks]] and then we looked at [
 ## Lecture 8
 
 Today we started looking at **Module 3**, this module treats the subject of the *rights conferred by Intellectual Property*. We started with [[IP - Module 3 - Patents]]. 
-
