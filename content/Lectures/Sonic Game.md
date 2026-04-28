@@ -1,5 +1,7 @@
 >[!danger] WARNING
 >THIS SHIT WILL PLAY FULL BLAST, **LOWER YOUR VOLUME**
+>
+>Also, for some reason, you need to **refresh** the page first for it to work correctly
 
 <div id="flash-container" style="width: 100%; height: 600px; background: #000; border-radius: 8px; overflow: hidden;"></div>
 
