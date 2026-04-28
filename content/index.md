@@ -31,6 +31,16 @@ const randomIndex = Math.floor(Math.random() * haerinGifs.length);
 })();
 </script>
 
+
+***
+
+# Sonic RPG Game
+
+>[!tip] For real
+>Yes it's the one you're thinking about, if you wanna play it click on the note below
+
+-> [[Sonic Game]]
+
 ***
 
 ## Lecture 1
