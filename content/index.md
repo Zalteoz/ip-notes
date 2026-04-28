@@ -58,3 +58,10 @@ Today we looked further at [Copyrights and Trademarks](Lectures/Copyrights%20and
 ## Lecture 8
 
 Today we started looking at **Module 3**, this module treats the subject of the *rights conferred by Intellectual Property*. We started with [IP - Module 3 - Patents](Lectures/IP%20-%20Module%203%20-%20Patents.md). 
+
+***
+## Lecture 9
+
+Today we continued looking at **Module 3**, continuing with [[IP - Module 3 - Patents]] and then finishing up Module 3 by looking at [[IP - Module 3 - Copyright, Trademarks and Design]]
+
+

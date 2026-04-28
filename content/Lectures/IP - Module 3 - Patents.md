@@ -76,4 +76,46 @@ The remedies one usually gets are the following:
 - ? Interim or preliminary injunctions
 	- @ We stop the alleged infringer for the duration of the court case, if we lose the case, we will have to pay damages to the alleged infringer
 - ? Final or permanent injunctions
-	- @ 
+	- @ We stop the infringer completely and permanently after winning the case; this is a final court order once the infringement has been proven at trial.
+- ? Destruction/surrender of infringing products
+- ? Recovery of damages
+
+***
+
+### Relationship between EPO and national courts
+
+After a patent has been **granted**, any third party has $9$ months to **challenge** the patent centrally at the EPO, if they win, the patent is revoked in **all member states at once**.
+
+The patent owner themselves can also ask to limit or revoke their patent.
+The patent owner must pay **patent renewal fees** it the patent is not revoked.
+
+After those $9$ months are over, the patent *shatters* into individual national rights. Any legal action from this point in time on must happen in **each specific country**, this is not handled by the EPO anymore. The EPC patent is not considered a **unitary** European patent anymore.
+
+#### How infringements are handled
+
+The national courts of each country where the patent is applicable determine whether infringement took place or not, with reference to applicable **national law**.
+
+>[!properties] (Recap) How is infringement determined
+>![[Pasted image 20260428110548.png]]
+>![[Pasted image 20260428110553.png]]
+
+>[!note] What to do against accusations of infringement
+>Here are the typical defenses that one can use if one is **accused of infringement**
+>
+>![[Pasted image 20260428110640.png]]
+
+***
+
+## Patents - License and Transfer
+
+**Licensing** is the principal means to authorize the use of patents, this is done with a **contract** with private law agreed by the two parties and contains multiple main elements:
+- Parties
+- Subject matter
+- Scope
+- Royalties
+- Warranties
+
+**Transferring** patents is also possible, you sell your patent and give up **ownership** permanently
+
+***
+
