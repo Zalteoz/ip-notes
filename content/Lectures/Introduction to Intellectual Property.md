@@ -1,5 +1,5 @@
 ---
-Subject: "[[Index]]"
+Subject: "[index](index.md)"
 tags:
   - iprights
   - semester6
@@ -9,7 +9,7 @@ Date: 2026-02-17
 
 # Related Notes
 
-- [[Index]]
+- [index](../index.md)
 ***
 
 # Current issues
@@ -35,20 +35,20 @@ The response from Pfizer was that the issue was not the patent but the manufactu
 
 We also recently had **AI** listed as an inventor for the first time.
 
-![[Pasted image 20260217104636.png | center | 400]]
+![ center | 400](Pasted%20image%2020260217104636.png)
 
 But can the AI really be an inventor? Since it's dataset is mostly infringing upon IP law. We need to really look at what the AI created and see whether it's truly something new, then we can ask ourselves if it's the AI that created it or the human.
 
 >In **Switzerland** as of now, AI cannot be listed as an inventor.
->![[Pasted image 20260217105048.png]]
+>![](Pasted%20image%2020260217105048.png)
 
 
 ***
 ### What does a patent look like ?
 
 >[!example] Example of a patent
->![[Pasted image 20260217104222.png]]
->![[Pasted image 20260217104226.png]]
+>![](Pasted%20image%2020260217104222.png)
+>![](Pasted%20image%2020260217104226.png)
 
 ***
 
@@ -76,8 +76,8 @@ The thing is that *buying an NFT* grants the user the **ownership** of the speci
 But there are other examples of NFT's that actually allow more rights to the buyer:
 
 >[!example] Examples
->![[Pasted image 20260217112000.png]]
->![[Pasted image 20260217112044.png]]
+>![](Pasted%20image%2020260217112000.png)
+>![](Pasted%20image%2020260217112044.png)
 
 ***
 
@@ -98,8 +98,8 @@ It was also said in the lecture that you can't name your fruits shop after the n
 >The whole goal is to associate strongly some products, some slogans, logos to a brand
 
 >[!example] What does it look like?
->![[Pasted image 20260217113605.png]]
->![[Pasted image 20260217113612.png]]
+>![](Pasted%20image%2020260217113605.png)
+>![](Pasted%20image%2020260217113612.png)
 
 Trademarking all of those categories of items makes the trademark more expensive to the company, for example, Coca-Cola pays around **80 billion dollars** for their trademarks
 ### Running out of trademarks?

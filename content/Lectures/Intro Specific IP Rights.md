@@ -1,5 +1,5 @@
 ---
-Subject: "[[Index]]"
+Subject: "[index](index.md)"
 tags:
   - semester6
   - iprights
@@ -10,9 +10,9 @@ Date:
 
 # Related Notes
 
-- [[Index]]
-- [[Introduction to Intellectual Property]]
-- [[Intro Policy Rationale]]
+- [index](../index.md)
+- [Introduction to Intellectual Property](Introduction%20to%20Intellectual%20Property.md)
+- [Intro Policy Rationale](Intro%20Policy%20Rationale.md)
 
 ***
 
@@ -75,13 +75,13 @@ If the **patent is given**, the author can then **forbid unauthorized use** of a
 ## Advantages and disadvantages
 
 >[!example] Advantages and disadvantages of patents
->![[Pasted image 20260224124737.png]]
+>![](Pasted%20image%2020260224124737.png)
 
 
 Which is why some might want to look at the **alternatives of patenting**:
 
 >[!example] Alternatives to patents
->![[Pasted image 20260224124813.png]]
+>![](Pasted%20image%2020260224124813.png)
 
 ***
 
@@ -147,7 +147,7 @@ The duration for those are typically of **5 years** and you can renew them **4 t
 The duration for those is typically **unlimited**, but it's dealt with on a case-by-case basis, this IP law object is less common than the ones above.
 
 >[!note] How they protect the secrets
->![[Pasted image 20260224132729.png]]
+>![](Pasted%20image%2020260224132729.png)
 
 We've all heard of **NDA**'s, they apply here as a *contractual* mean of protection of trade secrets.
 
@@ -158,14 +158,14 @@ We've all heard of **NDA**'s, they apply here as a *contractual* mean of protect
 There are many instances where a single product registers for a **few IP rights**, and we're going to see some examples here, those are just screenshots taken from the lecture slides.
 
 >[!example] Examples
->![[Pasted image 20260224132904.png]]
->![[Pasted image 20260224132908.png]]
->![[Pasted image 20260224132917.png]]
+>![](Pasted%20image%2020260224132904.png)
+>![](Pasted%20image%2020260224132908.png)
+>![](Pasted%20image%2020260224132917.png)
 
 >[!example] Case study: Apple store intellectual property
->![[Pasted image 20260224132921.png]]
->![[Pasted image 20260224132926.png]]
->![[Pasted image 20260224132930.png]]
+>![](Pasted%20image%2020260224132921.png)
+>![](Pasted%20image%2020260224132926.png)
+>![](Pasted%20image%2020260224132930.png)
 
 ****
 

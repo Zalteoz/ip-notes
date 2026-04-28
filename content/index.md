@@ -1,5 +1,5 @@
 ---
-Subject: "[[index]]"
+Subject: "[index](index.md)"
 tags:
   - semester6
   - iprights
@@ -14,47 +14,47 @@ title: IP Notes - ETH FS 2026
 
 ## Lecture 1
 
-This lecture is simply an introduction to the matter, you can find the notes about it in [[Introduction to Intellectual Property]]
+This lecture is simply an introduction to the matter, you can find the notes about it in [Introduction to Intellectual Property](Lectures/Introduction%20to%20Intellectual%20Property.md)
 
 ***
 
 ## Lecture 2
 
-Overslept this one i'm a fucking retard. But I think we handled [[Intro Policy Rationale]] and [[Intro Specific IP Rights]]
+Overslept this one i'm a fucking retard. But I think we handled [Intro Policy Rationale](Lectures/Intro%20Policy%20Rationale.md) and [Intro Specific IP Rights](Lectures/Intro%20Specific%20IP%20Rights.md)
 
 ***
 
 ## Lecture 3 
 
-We looked at [[Intro Importance of IP]] and [[Intro Gender and IP]]
+We looked at [Intro Importance of IP](Lectures/Intro%20Importance%20of%20IP.md) and [Intro Gender and IP](Lectures/Intro%20Gender%20and%20IP.md)
 
 ***
 
 ## Lecture 4
 
 Today was supposed to be the guest lecture. But we started looking at Module 2
-We started by looking at [[Patents - Legal Requirements]]
+We started by looking at [Patents - Legal Requirements](Lectures/Patents%20-%20Legal%20Requirements.md)
 
 ***
 
 ## Lecture 5 
 
-Today we looked at the [[Patents - Procedure]]
+Today we looked at the [Patents - Procedure](Lectures/Patents%20-%20Procedure.md)
 
 ***
 
 ## Lecture 6 
 
-Today we looked at [[Copyrights and Trademarks]]
+Today we looked at [Copyrights and Trademarks](Lectures/Copyrights%20and%20Trademarks.md)
 
 ***
 
 ## Lecture 7
 
-Today we looked further at [[Copyrights and Trademarks]] and then we looked at [[IP - Designs]]
+Today we looked further at [Copyrights and Trademarks](Lectures/Copyrights%20and%20Trademarks.md) and then we looked at [IP - Designs](Lectures/IP%20-%20Designs.md)
 
 ***
 
 ## Lecture 8
 
-Today we started looking at **Module 3**, this module treats the subject of the *rights conferred by Intellectual Property*. We started with [[IP - Module 3 - Patents]]. 
+Today we started looking at **Module 3**, this module treats the subject of the *rights conferred by Intellectual Property*. We started with [IP - Module 3 - Patents](Lectures/IP%20-%20Module%203%20-%20Patents.md). 

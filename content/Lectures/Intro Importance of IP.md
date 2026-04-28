@@ -1,5 +1,5 @@
 ---
-Subject: "[[Index]]"
+Subject: "[index](index.md)"
 tags:
   - semester6
   - iprights
@@ -9,9 +9,9 @@ Date: 2026-03-03
 
 # Related Notes
 
-- [[Index]]
-- [[Intro Specific IP Rights]]
-- [[Intro Policy Rationale]]
+- [index](../index.md)
+- [Intro Specific IP Rights](Intro%20Specific%20IP%20Rights.md)
+- [Intro Policy Rationale](Intro%20Policy%20Rationale.md)
 ***
 
 # Importance of IP 
@@ -29,15 +29,15 @@ IP also allows the creators to **release their inventions** to the public domain
 ## Some Facts
 
 >[!properties] How do the different IP rights distribute?
->![[Pasted image 20260303114814.png]]
+>![](Pasted%20image%2020260303114814.png)
 >
 
 ### Patents
 
 >[!note] You don't understand how Chinese my mind is
->![[Pasted image 20260303114734.png]]
->![[Pasted image 20260303114722.png]]
->![[Pasted image 20260303114639.png]]
+>![](Pasted%20image%2020260303114734.png)
+>![](Pasted%20image%2020260303114722.png)
+>![](Pasted%20image%2020260303114639.png)
 >
 
 Asia has lots of patents, and most of them are not exported internationally, since their market mostly stays in Asia
@@ -48,7 +48,7 @@ Some patent offices are more strict than others, for example, the patent office 
 ### Trademarks
 
 >[!note] You don't understand how Chinese my mind is
->![[Pasted image 20260303114704.png]]
+>![](Pasted%20image%2020260303114704.png)
 >
 
 Trademarks also seem to follow the same trends as with **patents**, with lots of patents coming from **Asia**, mainly because the **cost of applying for a trademark** seems to be lower in average for those countries.
@@ -59,17 +59,17 @@ Trademarks also seem to follow the same trends as with **patents**, with lots of
 ### Biggest patentees in Switzerland
 
 >[!properties] List of the patentees
->![[Pasted image 20260303110904.png]]
+>![](Pasted%20image%2020260303110904.png)
 
 There are some countries in which **Swiss** companies are trying to file patents more than others, mainly because those are where the competition might arise, those typically include the **US** and **South Korea**.
 
 >[!note] Why is that
->![[Pasted image 20260303111056.png]]
+>![](Pasted%20image%2020260303111056.png)
 
 Most Swiss patents concern the **Electronics**, which is developing the fastest in **Asia** and the **US**, which is why the Swiss firms  want those patents to be recognized in those competing countries.
 
 >[!properties] Switzerland has the largest patent density in the world
->![[Pasted image 20260303111246.png]]
+>![](Pasted%20image%2020260303111246.png)
 
 ***
 ## How patents are used
@@ -88,7 +88,7 @@ The main factors for applying for a patent are the following:
 - ? To be used in the **future**
 
 >[!example] Ranking of most common factors
->![[Pasted image 20260303111608.png]]
+>![](Pasted%20image%2020260303111608.png)
 
 
 ***
@@ -100,7 +100,7 @@ For example, in the Music industry, there are only a lucky few that actually get
 Even if you ask companies about how much of their profit comes from **patents**:
 
 >[!example] Company profits from patents
->![[Pasted image 20260303112412.png]]
+>![](Pasted%20image%2020260303112412.png)
 
 We see that patents are not the top 1 source of income, but they sometimes are a big part.
 Some companies simply prefer to keep everything **secret** and not apply for patents as they deem that those would not be worth it.
@@ -108,10 +108,10 @@ Some companies simply prefer to keep everything **secret** and not apply for pat
 Some companies have such a competitive advantage, such as **Nvidia**, that they do not even need to patent their top-end chips, since it would be hard for any other company in the world to be able to reproduce those from a purely technical standpoint.
 
 >[!example] More doubts from the Music industry
->![[Pasted image 20260303112646.png]]
+>![](Pasted%20image%2020260303112646.png)
 
 >[!example] Doubts about the medical example
->![[Pasted image 20260303112812.png]]
+>![](Pasted%20image%2020260303112812.png)
 
 We've talked before about patenting *drugs*, and how this prohibits the competition from undercutting the company that developed the drug. But here we see that even after having a patent, once it ends, the competing products can still usually **undercut the price of the original drug** immensely, simply because they don't have to make money from the research and development the original company had to go through.
 

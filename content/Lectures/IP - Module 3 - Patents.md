@@ -1,5 +1,5 @@
 ---
-Subject: "[[Index]]"
+Subject: "[index](index.md)"
 tags:
   - semester6
   - lecture
@@ -11,9 +11,9 @@ Date: 2026-04-14
 
 # Related Notes
 
-- [[IP - Designs]]
-- [[Patents - Legal Requirements]]
-- [[Patents - Procedure]]
+- [IP - Designs](IP%20-%20Designs.md)
+- [Patents - Legal Requirements](Patents%20-%20Legal%20Requirements.md)
+- [Patents - Procedure](Patents%20-%20Procedure.md)
 ***
 # Patents
 
@@ -22,7 +22,7 @@ Date: 2026-04-14
 A patent protects an invention by giving the owner of the patent the right to *prevent anyone from commercially making or using the invention without their consent*.
 
 >[!note] Swiss Patent Act
->![[Pasted image 20260414111209.png]]
+>![](Pasted%20image%2020260414111209.png)
 
 Any **commercial** use is an **infringing act**, and this is a very broad term, so for example, even just storing those products in a container is considered commercial use and is thus an infringement.
 
@@ -33,13 +33,13 @@ We say that the patent owner has the *exclusive right*, meaning the right we men
 ### Infringement
 
 >[!properties] Slides
->![[Pasted image 20260414111308.png]]
+>![](Pasted%20image%2020260414111308.png)
 >
 >The patent office does not care about **infringements**, it's the work of the **court**
 >
 >
->![[Pasted image 20260414111428.png]]
->![[Pasted image 20260414112022.png]]
+>![](Pasted%20image%2020260414111428.png)
+>![](Pasted%20image%2020260414112022.png)
 >
 >We look at the claim, and first we look at all of the **features of the claim** and how it relates to the patent potentially being infringed, when the infringing product possesses all of the features of the claimed invention, we have an infringement.
 
@@ -52,7 +52,7 @@ Having the exclusive rights to an invention does **not mean** we have the right 
 The use of a patented invention **may infringe prior intellectual property rights** (dependent inventions)
 
 >[!note] Swiss Patent Act
->![[Pasted image 20260414112900.png]]
+>![](Pasted%20image%2020260414112900.png)
 
 >[!danger] Important
 >Patents are **limited** to the country/territory in which the patent was granted

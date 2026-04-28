@@ -1,5 +1,5 @@
 ---
-Subject: "[[Index]]"
+Subject: "[index](index.md)"
 tags:
   - iprights
   - semester6
@@ -10,10 +10,10 @@ Date: 2026-03-03
 # Related Notes
 
 
-- [[Index]]
-- [[Intro Specific IP Rights]]
-- [[Intro Policy Rationale]]
-- [[Intro Importance of IP]]
+- [index](../index.md)
+- [Intro Specific IP Rights](Intro%20Specific%20IP%20Rights.md)
+- [Intro Policy Rationale](Intro%20Policy%20Rationale.md)
+- [Intro Importance of IP](Intro%20Importance%20of%20IP.md)
 
 ***
 
@@ -24,15 +24,15 @@ I don't got it in me to do the notes for this one, just putting some lecture sli
 ## Empirical Research on Gender and IP 
 
 >[!example] The study
->![[Pasted image 20260303113301.png]]![[Pasted image 20260303113305.png]]![[Pasted image 20260303113314.png]]
+>![](Pasted%20image%2020260303113301.png)![](Pasted%20image%2020260303113305.png)![](Pasted%20image%2020260303113314.png)
 
 ***
 
 ## Explanations for the Gender Gap
 
 >[!example] Slides 
->![[Pasted image 20260303113337.png]]
->![[Pasted image 20260303113341.png]]
+>![](Pasted%20image%2020260303113337.png)
+>![](Pasted%20image%2020260303113341.png)
 
 ***
 

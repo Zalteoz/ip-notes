@@ -1,5 +1,5 @@
 ---
-Subject: "[[Index]]"
+Subject: "[index](index.md)"
 tags:
   - iprights
   - semester6
@@ -10,14 +10,14 @@ Date: 2026-02-24
 
 # Related Notes
 
-- [[Index]]
-- [[Intro Specific IP Rights]]
+- [index](../index.md)
+- [Intro Specific IP Rights](Intro%20Specific%20IP%20Rights.md)
 ***
 
 # Big picture and definition
 
 >[!example] Big picture
->![[Pasted image 20260224122840.png]]
+>![](Pasted%20image%2020260224122840.png)
 
 If we wanted to really define **IP**, we could say that:
 
@@ -27,5 +27,5 @@ If we wanted to really define **IP**, we could say that:
 - @ Protects **tangible** as well as **intangible** assets (as we've seen before with NFT's)
 
 >[!example] Categories of IP rights
->![[Pasted image 20260224123126.png]]
+>![](Pasted%20image%2020260224123126.png)
 

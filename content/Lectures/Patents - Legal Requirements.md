@@ -1,5 +1,5 @@
 ---
-Subject: "[[Index]]"
+Subject: "[index](index.md)"
 tags:
   - semester6
   - gess
@@ -10,8 +10,8 @@ Date: 2026-03-10
 
 # Related Notes
 
-- [[Index]]
-- [[Introduction to Intellectual Property]]
+- [index](../index.md)
+- [Introduction to Intellectual Property](Introduction%20to%20Intellectual%20Property.md)
 ***
 
 
@@ -25,7 +25,7 @@ An invention is different than a **discovery**, an intention must be **repeatabl
 - @ Example: (Gene discovered to exist in nature vs. use of gene in making polypeptide or in gene therapy)
 
 >[!note] Criteria for patenting inventions
->![[Pasted image 20260310102220.png]]
+>![](Pasted%20image%2020260310102220.png)
 
 The picture above shows what an invention needs to have to be able to be **patented** (at least in Switzerland).
 
@@ -55,17 +55,17 @@ The requirements are the following:
 
 
 >[!properties] Assessing novelty
->![[Pasted image 20260310102418.png]]
+>![](Pasted%20image%2020260310102418.png)
 >
 >We look at what was in the state of the art before the filing of the application to check whether or not this is a novelty or not.
 
 The general idea is that **when the public has used it before**, there is no novelty anymore. This is a very vague idea and depends on the cases, but it's a simple check to know if something is novel or not.
 
 >[!properties] EPC articles
->![[Pasted image 20260310103113.png]]
+>![](Pasted%20image%2020260310103113.png)
 
 >[!note] When can we sue?
->![[Pasted image 20260310105357.png]]
+>![](Pasted%20image%2020260310105357.png)
 >
 >You cannot just sue someone when the patent hasn't been granted yet, but you can inform them that the patent application has been submitted, and ask them to stop what they're doing.
 >
@@ -78,7 +78,7 @@ The general idea is that **when the public has used it before**, there is no nov
 ## Non-obviousness
 
 >[!note] General idea
->![[Pasted image 20260310103710.png]]
+>![](Pasted%20image%2020260310103710.png)
 
 So for every invention, we look at it from the point of view of this person, for example in the example above, for someone who's worked with teapots their entire life, adding another spout **will not seem like an invention**. 
 
@@ -98,11 +98,11 @@ It is important to note that this person **has no imagination**, but it can look
 systematically putting together “prior arts”
 
 >[!properties] Indicators for both definitions
->![[Pasted image 20260310104206.png]]
+>![](Pasted%20image%2020260310104206.png)
 
 >[!properties] Assessing Non-obviousness
->![[Pasted image 20260310104224.png]]
->![[Pasted image 20260310104238.png]]
+>![](Pasted%20image%2020260310104224.png)
+>![](Pasted%20image%2020260310104238.png)
 >
 >Here, the fictional person looks at two previous inventions and combines them, and gets the same advantages as the new invention, thus we could say that this invention is **obvious** in some way.
 
@@ -115,7 +115,7 @@ We're trying to think the following:
 ## Industrial Application
 
 >[!note] General idea
->![[Pasted image 20260310104800.png]]
+>![](Pasted%20image%2020260310104800.png)
 
 This aspect is **not as relevant as the other ones**
 
@@ -129,7 +129,7 @@ Note that this isn't an issue for the inventor, since getting the patent accepte
 
 
 >[!note] General idea
->![[Pasted image 20260310104821.png]]
+>![](Pasted%20image%2020260310104821.png)
 
 The requirements are the following:
 
@@ -139,7 +139,7 @@ The requirements are the following:
 
 
 >[!properties] EPC articles
->![[Pasted image 20260310105247.png]]
+>![](Pasted%20image%2020260310105247.png)
 
 
 *** 
@@ -147,7 +147,7 @@ The requirements are the following:
 ## Do's and Dont's of filing a patent application
 
 >[!properties] Lecture slide
->![[Pasted image 20260310110105.png]]
+>![](Pasted%20image%2020260310110105.png)
 
 ***
 
@@ -159,41 +159,41 @@ We first check the four requirements we talked about above, and then if all are 
 
 >[!properties] Lecture slides
 >**Fundamental principles**
->![[Pasted image 20260310111642.png]]
+>![](Pasted%20image%2020260310111642.png)
 >
 >**Plants or animal varieties and human body**
->![[Pasted image 20260310111650.png]]
->![[Pasted image 20260310111656.png]]
+>![](Pasted%20image%2020260310111650.png)
+>![](Pasted%20image%2020260310111656.png)
 >The thing on the human body is more about making it available to all **doctors**, since if we patent something that might be life saving, we're going to have a monopoly on this (eye treatment, cancer treatment), and this would not be good, we don't allow patents on this so that we can give it to as many people as possible.
 >
 >**Not fitting the definition**
->![[Pasted image 20260310111845.png]]
->![[Pasted image 20260310112024.png]]
+>![](Pasted%20image%2020260310111845.png)
+>![](Pasted%20image%2020260310112024.png)
 >This article is more about what we exclude from what we consider inventions, it's not about them being immoral or illegal or something, just that we think those specific things do not fit the invention definition
 >
 >**Biotechnological inventions**
->![[Pasted image 20260310112033.png]]
->![[Pasted image 20260310112047.png]]
->![[Pasted image 20260310112055.png]]
+>![](Pasted%20image%2020260310112033.png)
+>![](Pasted%20image%2020260310112047.png)
+>![](Pasted%20image%2020260310112055.png)
 >Note here that **Switzerland** is part of the **European patent convention**
 >
->![[Pasted image 20260310112440.png]]
+>![](Pasted%20image%2020260310112440.png)
 >
 >**Software Patents**
->![[Pasted image 20260310112500.png]]
+>![](Pasted%20image%2020260310112500.png)
 >For example, the **ABS** system in a car was able to be patented, the software is literally preventing the car from crashing, the software has a further technical effect.
 >Even just a program that allows for faster and better video compression might be patentable, since we're improving the **computer's capacities** itself.
 >
 >**Business methods**
->![[Pasted image 20260310112927.png]]
->![[Pasted image 20260310113126.png]]
->![[Pasted image 20260310114312.png]]
+>![](Pasted%20image%2020260310112927.png)
+>![](Pasted%20image%2020260310113126.png)
+>![](Pasted%20image%2020260310114312.png)
 >
 >**The Alice Test**
->![[Pasted image 20260310113007.png]]
+>![](Pasted%20image%2020260310113007.png)
 
 >[!danger] AI patents
->![[Pasted image 20260310114450.png]]
+>![](Pasted%20image%2020260310114450.png)
 >
 >Patent law has tried to *kill off* AI inventions and patents, like AI-generated software and other AI related patents, and it worked in $2014$, as you can see, but then the companies adapted and just present their patent application differently, they basically *get around the rules*.
 >
