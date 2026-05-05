@@ -92,6 +92,16 @@ Today we started looking at **Module 3**, this module treats the subject of the 
 ***
 ## Lecture 9
 
-Today we continued looking at **Module 3**, continuing with [[IP - Module 3 - Patents]] and then finishing up Module 3 by looking at [[IP - Module 3 - Copyright, Trademarks and Design]]
+Today we continued looking at **Module 3**, continuing with [[IP - Module 3 - Patents]] and then going further into Module 3 by looking at [[IP - Module 3 - Copyright, Trademarks and Design]]
+
+***
+
+## Lecture 10
+
+Today finished [[IP - Module 3 - Copyright, Trademarks and Design]] and went over a few examples which should be on an updated version of the slides soon. (Some are also in the notes).
+
+***
+
+
 
 

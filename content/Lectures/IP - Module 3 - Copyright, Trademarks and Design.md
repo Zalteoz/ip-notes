@@ -195,6 +195,21 @@ To protect works from future infringement, creators often apply **technical prot
 >[!example] Examples of infringement
 >![[Pasted image 20260428121025.png]]
 
+>[!example] Google Advertising Example
+>There is another example in the slides which goes as follows:
+>
+>![[Pasted image 20260505104648.png]]
+>
+>They later had a case where when you searched for *Louis Vuitton*, you actually got results from smaller companies that also did luxury bags and such, but that were **not** *Louis Vuitton*, who paid Google to advertise their website when users with *LV*.
+>
+>The question now was whether or not Google was liable for this. Directly they are not liable, but one could argue that they allowed the infringement to happen **indirectly** by allowing such advertising and not having enough verifications in place.
+
+
+>[!note] Another note
+>Another interesting note that we've talked about before is that even though the **trademark** is still registered (usually a validity of 10 years), if it is **not used** for $5$ or more years, one can argue against the validity of the trademark.
+>
+>This means that one could in theory deposit a trademark for a sign that already exists and is also trademarked, if it has not been in use for more than $5$ years. The owner of the original trademark can come and defend their trademark by proving that it has been used.
+
 ***
 
 # Registered Design Rights
@@ -205,6 +220,13 @@ To protect works from future infringement, creators often apply **technical prot
 
 >[!note] Scope of protection
 > Protection covers any design that does **not** produce a **different overall impression** on an "informed user".
+
+>[!example] Example from the lecture with sauna
+>We saw an example in the lecture about **sauna parts**, namely, some design had been protected where there were *metal bars going through the wooden parts* of the sauna parts.
+>
+>Another company had been designated as an *infringer* because their sauna designs also included wooden parts being pierced by metal rods.
+>
+>The court decided that the overall **idea** of the original sauna parts was that whole idea of metal rods going through wooden parts, therefore they decided that this was indeed an infringement.
 
  The owner can prevent the following acts regarding a product incorporating the design:  
  
