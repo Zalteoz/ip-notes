@@ -102,6 +102,9 @@ Today finished [[IP - Module 3 - Copyright, Trademarks and Design]] and went ove
 
 ***
 
+## Lecture 11
 
+Today we looked at [[IP - Module 4 - Limitations of Patents and Copyrights]] and saw some example questions from the exam on the projector.
 
+***
 
