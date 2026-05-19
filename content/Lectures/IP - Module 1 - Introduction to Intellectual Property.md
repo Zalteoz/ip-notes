@@ -9,7 +9,7 @@ Date: 2026-02-17
 
 # Related Notes
 
-- [index](../index.md)
+- [index](index.md)
 ***
 
 # Current issues

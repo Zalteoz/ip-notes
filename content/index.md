@@ -44,44 +44,44 @@ const randomIndex = Math.floor(Math.random() * haerinGifs.length);
 
 ## Lecture 1
 
-This lecture is simply an introduction to the matter, you can find the notes about it in [Introduction to Intellectual Property](Lectures/Introduction%20to%20Intellectual%20Property.md)
+This lecture is simply an introduction to the matter, you can find the notes about it in [IP - Module 1 - Introduction to Intellectual Property](IP%20-%20Module%201%20-%20Introduction%20to%20Intellectual%20Property.md)
 
 ***
 
 ## Lecture 2
 
-Overslept this one i'm a fucking retard. But I think we handled [Intro Policy Rationale](Lectures/Intro%20Policy%20Rationale.md) and [Intro Specific IP Rights](Lectures/Intro%20Specific%20IP%20Rights.md)
+Overslept this one i'm a fucking retard. But I think we handled [IP - Module 1 - Intro Policy Rationale](IP%20-%20Module%201%20-%20Intro%20Policy%20Rationale.md) and [IP - Module 1 - Intro Specific IP Rights](IP%20-%20Module%201%20-%20Intro%20Specific%20IP%20Rights.md)
 
 ***
 
 ## Lecture 3 
 
-We looked at [Intro Importance of IP](Lectures/Intro%20Importance%20of%20IP.md) and [Intro Gender and IP](Lectures/Intro%20Gender%20and%20IP.md)
+We looked at [IP - Module 1 - Intro Importance of IP](IP%20-%20Module%201%20-%20Intro%20Importance%20of%20IP.md) and [IP - Module 1 - Intro Gender and IP](IP%20-%20Module%201%20-%20Intro%20Gender%20and%20IP.md)
 
 ***
 
 ## Lecture 4
 
 Today was supposed to be the guest lecture. But we started looking at Module 2
-We started by looking at [Patents - Legal Requirements](Lectures/Patents%20-%20Legal%20Requirements.md)
+We started by looking at [IP - Module 2 - Patents - Legal Requirements](IP%20-%20Module%202%20-%20Patents%20-%20Legal%20Requirements.md)
 
 ***
 
 ## Lecture 5 
 
-Today we looked at the [Patents - Procedure](Lectures/Patents%20-%20Procedure.md)
+Today we looked at the [IP - Module 2 - Patents - Procedure](IP%20-%20Module%202%20-%20Patents%20-%20Procedure.md)
 
 ***
 
 ## Lecture 6 
 
-Today we looked at [Copyrights and Trademarks](Lectures/Copyrights%20and%20Trademarks.md)
+Today we looked at [IP - Module 2 - Copyrights and Trademarks](IP%20-%20Module%202%20-%20Copyrights%20and%20Trademarks.md)
 
 ***
 
 ## Lecture 7
 
-Today we looked further at [Copyrights and Trademarks](Lectures/Copyrights%20and%20Trademarks.md) and then we looked at [IP - Designs](Lectures/IP%20-%20Designs.md)
+Today we looked further at [IP - Module 2 - Copyrights and Trademarks](IP%20-%20Module%202%20-%20Copyrights%20and%20Trademarks.md) and then we looked at [IP - Module 2 - Designs](IP%20-%20Module%202%20-%20Designs.md)
 
 ***
 
@@ -108,3 +108,6 @@ Today we looked at [[IP - Module 4 - Limitations of Patents and Copyrights]] and
 
 ***
 
+## Lecture 12 
+
+We finished the course with [[IP - Module 4 - Limitations of Trademarks and Design Rights]]

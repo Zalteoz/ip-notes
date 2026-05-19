@@ -10,8 +10,8 @@ Date: 2026-02-24
 
 # Related Notes
 
-- [index](../index.md)
-- [Intro Specific IP Rights](Intro%20Specific%20IP%20Rights.md)
+- [index](index.md)
+- [IP - Module 1 - Intro Specific IP Rights](IP%20-%20Module%201%20-%20Intro%20Specific%20IP%20Rights.md)
 ***
 
 # Big picture and definition

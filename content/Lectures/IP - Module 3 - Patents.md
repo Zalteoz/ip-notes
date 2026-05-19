@@ -11,9 +11,9 @@ Date: 2026-04-14
 
 # Related Notes
 
-- [IP - Designs](IP%20-%20Designs.md)
-- [Patents - Legal Requirements](Patents%20-%20Legal%20Requirements.md)
-- [Patents - Procedure](Patents%20-%20Procedure.md)
+- [IP - Module 2 - Designs](IP%20-%20Module%202%20-%20Designs.md)
+- [IP - Module 2 - Patents - Legal Requirements](IP%20-%20Module%202%20-%20Patents%20-%20Legal%20Requirements.md)
+- [IP - Module 2 - Patents - Procedure](IP%20-%20Module%202%20-%20Patents%20-%20Procedure.md)
 ***
 # Patents
 

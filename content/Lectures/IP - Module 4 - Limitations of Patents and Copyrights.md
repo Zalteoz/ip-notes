@@ -12,8 +12,8 @@ Date: 2026-05-12
 # Related Notes
 
 - [[Intellectual Property - An Introduction]]
-- [[Patents - Procedure]]
-- [[Patents - Legal Requirements]]
+- [[IP - Module 2 - Patents - Procedure]]
+- [[IP - Module 2 - Patents - Legal Requirements]]
 - [[IP - Module 3 - Patents]]
 ***
 # Patents

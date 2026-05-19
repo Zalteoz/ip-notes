@@ -11,10 +11,10 @@ Date: 2026-03-31
 
 # Related Notes
 
-- [index](../index.md)
-- [Copyrights and Trademarks](Copyrights%20and%20Trademarks.md)
-- [Patents - Procedure](Patents%20-%20Procedure.md)
-- [Patents - Legal Requirements](Patents%20-%20Legal%20Requirements.md)
+- [index](index.md)
+- [IP - Module 2 - Copyrights and Trademarks](IP%20-%20Module%202%20-%20Copyrights%20and%20Trademarks.md)
+- [IP - Module 2 - Patents - Procedure](IP%20-%20Module%202%20-%20Patents%20-%20Procedure.md)
+- [IP - Module 2 - Patents - Legal Requirements](IP%20-%20Module%202%20-%20Patents%20-%20Legal%20Requirements.md)
 ***
 
 # Designs

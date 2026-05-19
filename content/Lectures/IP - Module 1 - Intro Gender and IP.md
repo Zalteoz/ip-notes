@@ -10,10 +10,10 @@ Date: 2026-03-03
 # Related Notes
 
 
-- [index](../index.md)
-- [Intro Specific IP Rights](Intro%20Specific%20IP%20Rights.md)
-- [Intro Policy Rationale](Intro%20Policy%20Rationale.md)
-- [Intro Importance of IP](Intro%20Importance%20of%20IP.md)
+- [index](index.md)
+- [IP - Module 1 - Intro Specific IP Rights](IP%20-%20Module%201%20-%20Intro%20Specific%20IP%20Rights.md)
+- [IP - Module 1 - Intro Policy Rationale](IP%20-%20Module%201%20-%20Intro%20Policy%20Rationale.md)
+- [IP - Module 1 - Intro Importance of IP](IP%20-%20Module%201%20-%20Intro%20Importance%20of%20IP.md)
 
 ***
 

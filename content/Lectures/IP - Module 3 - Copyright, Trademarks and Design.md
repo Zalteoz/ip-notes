@@ -13,7 +13,7 @@ Date: 2026-04-28
 
 - [[IP - Module 3 - Patents]]
 - [[Intellectual Property - An Introduction]]
-- [[Copyrights and Trademarks]]
+- [[IP - Module 2 - Copyrights and Trademarks]]
 ***
 # Copyrights
 

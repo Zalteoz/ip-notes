@@ -10,8 +10,8 @@ Date: 2026-03-10
 
 # Related Notes
 
-- [index](../index.md)
-- [Introduction to Intellectual Property](Introduction%20to%20Intellectual%20Property.md)
+- [index](index.md)
+- [IP - Module 1 - Introduction to Intellectual Property](IP%20-%20Module%201%20-%20Introduction%20to%20Intellectual%20Property.md)
 ***
 
 

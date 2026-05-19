@@ -10,9 +10,9 @@ Date:
 
 # Related Notes
 
-- [index](../index.md)
-- [Introduction to Intellectual Property](Introduction%20to%20Intellectual%20Property.md)
-- [Intro Policy Rationale](Intro%20Policy%20Rationale.md)
+- [index](index.md)
+- [IP - Module 1 - Introduction to Intellectual Property](IP%20-%20Module%201%20-%20Introduction%20to%20Intellectual%20Property.md)
+- [IP - Module 1 - Intro Policy Rationale](IP%20-%20Module%201%20-%20Intro%20Policy%20Rationale.md)
 
 ***
 
